@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kylez
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Python
-- 📫 kylezli@protonmail.com
 
 <!---
 ky1ez/ky1ez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
